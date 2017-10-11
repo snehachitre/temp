@@ -1,4 +1,6 @@
 # Association-Rule-Mining
+
+#Added this line by Sneha in workshops
 Data set: Fertility data from machine learning repository
 
 Link: http://archive.ics.uci.edu/ml/datasets/Fertility
