@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Association-Rule-Mining
 
 #Added this line by Sneha in workshops
@@ -24,3 +25,7 @@ Output: Diagnosis	normal (N), altered (O)
 
 
 
+=======
+# newrep
+# newrep
+>>>>>>> 016401da0d7c55af1c3bdad70f294112617e55c0
